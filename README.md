@@ -19,6 +19,7 @@ For anyone who stumbles upon this, if you decide you want to try it yourself (us
 
 
 <br />
+
 ## Prerequisites
 
 Jekyll requires the following:
